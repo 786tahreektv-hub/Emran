@@ -1,0 +1,6 @@
+{
+  "name": "আমার জীবন",
+  "description": "My Life — Islamic Life & Amal Manager: অফলাইন-ফার্স্ট মুসলিম দৈনিক আমল, ২৪ ঘণ্টার রুটিন, পরিবার, মাদরাসা ও পেশা, শিক্ষা, অর্থ ও ৩৬৫ দিনের পরিকল্পনা ব্যবস্থাপনা অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
